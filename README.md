@@ -1,6 +1,6 @@
 # Hi, I'm yong 👋 🧑 💻
 
-<img src="" alt="banner says hello world">
+<img src="https://github.com/Chhe-chinyong/Chhe-chinyong/blob/master/github_cover.png?raw=true" alt="banner says hello world">
 
 I am an ordinary young man who is an IT student who is passionate about making open-source more accessible, Blockchain, and web development. With all the stuff I have seen motivating me to believe that only technology could change the country and this world to be a better place.
 
