@@ -6,7 +6,7 @@ I am an ordinary young man who is an IT student who is passionate about making o
 ## Code:</br>
 - **HTML** 
 - **CSS**
-- **Javascript**. <img src="https://img.icons8.com/color/48/000000/javascript.png"/ align="left">
+- **Javascript** <img src="https://img.icons8.com/color/48/000000/javascript.png" align="right">
 - **C**
 
 
