@@ -3,11 +3,11 @@
 
 I am an ordinary young man who is an IT student who is passionate about making open-source more accessible, Blockchain, and web development. With all the stuff I have seen motivating me to believe that only technology could change the country and this world to be a better place.
 
-### Code:</br>
-- HTML
-- CSS
-- Javascript
-- C
+## Code:</br>
+- **HTML** 
+- **CSS**
+- **Javascript**. <img src="https://img.icons8.com/color/72/000000/javascript.png"/>
+- **C**
 
 
 
