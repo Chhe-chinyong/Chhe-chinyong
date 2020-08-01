@@ -5,6 +5,7 @@
 I am an ordinary young man who is an IT student who is passionate about making open-source more accessible, Blockchain, and web development. With all the stuff I have seen motivating me to believe that only technology could change the country and this world to be a better place.
 
 ## Code: </br>
+  <img align= "left" src="https://img.icons8.com/color/26/000000/javascript.png"/>
   **- HTML** &nbsp; &nbsp;  **- CSS** &nbsp; &nbsp;  **- Javascript** &nbsp; &nbsp; **- C** 
 
 
