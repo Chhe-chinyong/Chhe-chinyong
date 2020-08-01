@@ -4,13 +4,13 @@
 
 I am an ordinary young man who is an IT student who is passionate about making open-source more accessible, Blockchain, and web development. With all the stuff I have seen motivating me to believe that only technology could change the country and this world to be a better place.
 
-## Code: </br>
+## Languages and tools: </br>
   <img align="left" src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img align= "left" src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img align= "left" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img align= "left" src="https://github.com/Chhe-chinyong/Chhe-chinyong/blob/master/icons8-c-programming-48.png?raw=true"/>
+  <img align= "left" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  <img align= "left" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
   
-  **- HTML** &nbsp; &nbsp;  **- CSS** &nbsp; &nbsp;  **- Javascript** &nbsp; &nbsp; **- C** 
 
 
 
