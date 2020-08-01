@@ -6,7 +6,9 @@ I am an ordinary young man who is an IT student who is passionate about making o
 
 ## Code: </br>
   <img align="left" src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  <img align= "left" src="https://img.icons8.com/color/26/000000/javascript.png"/>
+  <img align= "left" src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img align= "left" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  
   **- HTML** &nbsp; &nbsp;  **- CSS** &nbsp; &nbsp;  **- Javascript** &nbsp; &nbsp; **- C** 
 
 
