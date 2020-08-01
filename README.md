@@ -8,7 +8,7 @@ I am an ordinary young man who is an IT student who is passionate about making o
   <img align="left" src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img align= "left" src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img align= "left" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img align= "left" scr="https://github.com/Chhe-chinyong/Chhe-chinyong/blob/master/icons8-c-programming-48.png?raw=true">
+  <img align= "left" scr="https://github.com/Chhe-chinyong/Chhe-chinyong/blob/master/icons8-c-programming-48.png?raw=true"/>
   
   **- HTML** &nbsp; &nbsp;  **- CSS** &nbsp; &nbsp;  **- Javascript** &nbsp; &nbsp; **- C** 
 
