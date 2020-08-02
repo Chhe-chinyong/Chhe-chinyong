@@ -19,6 +19,7 @@ I am an ordinary young man who is an IT student who is passionate about making o
   
 
 
-## Find me around the web 🌎: <a href="https://github.com/Chhe-chinyong"><img align="left" width="330" height="255" src="https://netbramha.com/wp-content/uploads/2016/12/front-end-developers-openings-1.gif"></a>
+## Find me around the web 🌎: <a href="https://github.com/Chhe-chinyong"><img align="left" width="335" height="260" src="https://netbramha.com/wp-content/uploads/2016/12/front-end-developers-openings-1.gif"></a>
+  </br>
   - Mail: <a href="chhechinyong01@gmail.com">Email </a> 📥
   - Sharing updates on <a href="https://www.linkedin.com/in/chinyong-chhe-a8178b197/">LinkedIn</a> 💼
