@@ -1,4 +1,5 @@
-# Hi, I'm yong 👋 🧑 💻
+<h1 align="center">Hi 👋, I'm Chhe chinyong</h1>
+<h3 align="center">Frontend developer 🧑 💻</h3>
 
 <img src="https://github.com/Chhe-chinyong/Chhe-chinyong/blob/master/github_cover.png?raw=true" alt="banner says hello world">
 
