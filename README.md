@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chhe chinyong</h1>
-<h3 align="center">Frontend developer 🧑 💻</h3>
+<h1 align="left">Hi 👋, I'm Chhe chinyong</h1>
+<h3 align="left">Frontend developer 🧑 💻</h3>
 
 <img src="https://github.com/Chhe-chinyong/Chhe-chinyong/blob/master/github_cover.png?raw=true" alt="banner says hello world">
 
@@ -14,8 +14,13 @@ I am an ordinary young man who is an IT student who is passionate about making o
   <p> </p>
   
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/chinyong-chhe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chinyong-chhe/" height="30" width="40" /></a>
+</p>
 
-## Find me around the web 🌎: <a href="https://github.com/Chhe-chinyong"><img align="left" width="335" height="260" src="https://netbramha.com/wp-content/uploads/2016/12/front-end-developers-openings-1.gif"></a> 
+
+<h3 align="left">Connect with me:</h3> : <a href="https://github.com/Chhe-chinyong"><img align="left" width="335" height="260" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1"></a> 
   <p> </p>
-  - Mail: <a href="chhechinyong01@gmail.com">Email </a> 📥 </br>
+  - Mail: <a href="chhechinyong@gmail.com"> **Email </a> 📫 </br>
   - Sharing updates on <a href="https://www.linkedin.com/in/chinyong-chhe-a8178b197/">LinkedIn</a> 💼
