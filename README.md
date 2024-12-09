@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Chhe chinyong</h1>
 <h3 align="left">Frontend developer 🧑 💻</h3>
 
-<img src="https://github.com/Chhe-chinyong/Chhe-chinyong/blob/master/github_cover.png?raw=true" alt="banner says hello world">
-
 I am an ordinary young man who is an IT student who is passionate about making open-source more accessible, Blockchain, and web development. With all the stuff I have seen motivating me to believe that only technology could change the country and this world to be a better place.
 
 ## Languages and tools: </br>
