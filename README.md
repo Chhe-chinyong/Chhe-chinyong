@@ -1,16 +1,28 @@
-<h1 align="left">Hi 👋, I'm Chhe chinyong</h1>
-<h3 align="left">Frontend developer 🧑 💻</h3>
+### Hello there 👋
 
-I am an ordinary young man who is an IT student who is passionate about making open-source more accessible, Blockchain, and web development. With all the stuff I have seen motivating me to believe that only technology could change the country and this world to be a better place.
+#### A Dev who passionate about building modern web applications
 
-## Languages and tools: </br>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> &nbsp; <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>  </a> &nbsp; <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp; <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> &nbsp; <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> &nbsp;  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-   
-  </br>
-<h2 align="left"> Contact with me: </h2></br>
-  - Mail: <a href="chhechinyong@gmail.com"> Email </a> 📫 </br>
-  - Sharing updates on <a href="https://www.linkedin.com/in/chinyong-chhe-a8178b197/">LinkedIn</a> 💼
-   </br>
-   </br>
-   <p> </p>
- <a href="https://github.com/Chhe-chinyong"><img align="left" width="335" height="260" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1"></a> 
+- ⚙️ I use daily: `.ts`, `.js`, `.tsx`, `.jsx`, `.html`, `.css`, `.cs`, `.sql`
+- 🚀 Tech Stack: **Angular** | **ReactJS** | **TypeScript** | **.NET** | **Tailwind CSS** | **HTML** | **CSS** | **SQL**
+- 💬 `ping` me about **Angular**, **React**, **TypeScript**, **.NET**, **web development**, **frontend architecture**
+- 🔗 Visit: [Blog](https://chhechinyong.com/blog)
+
+---
+
+### Top Skills:
+
+![Angular](https://img.shields.io/badge/angular-000000?style=for-the-badge&logo=angular&logoColor=white)![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white)![Tailwind CSS](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+- 🔭 I'm currently working as **SWE**, building scalable web applications with Angular and React @[Okoone](https://okoone.com)
+- 🌱 I'm currently learning **Generative AI**
+- 👯 I'm looking to collaborate on **open source projects** and **full-stack web applications**
+- 💬 Ask me about **Angular**, **React**, **TypeScript**, **.NET**, **performance optimization**
+- 📫 How to reach me:
+  **[LinkedIn](https://www.linkedin.com/in/chinyong-chhe/), [X](https://x.com/ChinyongChhe)**
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chhe-chinyong&hide_progress=true&hide_border=true&theme=dark" alt="Top Languages" />
+</p> 
+
+
