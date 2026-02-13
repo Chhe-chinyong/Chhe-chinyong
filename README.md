@@ -22,7 +22,8 @@
 - 📫 How to reach me:
   **[LinkedIn](https://www.linkedin.com/in/chinyong-chhe/), [X](https://x.com/ChinyongChhe)**
 <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Chhe-chinyong&hide_progress=true&hide_border=true&theme=dark" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Chhe-chinyong&hide_progress=true&hide_border=true&theme=dark" alt="Top Languages" /> -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=chhe-chinyong&show_icons=false&theme=dark" alt="top commit" />
 </p> 
 
 
